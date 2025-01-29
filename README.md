@@ -6,7 +6,7 @@ https://app.powerbi.com/links/LG7NMr0L_j?ctid=ffa5b9ed-b71c-4988-a7bb-e19b0f3c00
 
 ![Screenshot 2025-01-05 145702](https://github.com/user-attachments/assets/9d755d69-436e-4a32-90e1-ffa263bc7628)
 
-🚀 **Technologies Used:** SQL | Power BI | Excel  
+### 🚀 **Technologies Used:** SQL | Power BI | Excel  
 
 ### **🔍 Overview**  
 This project analyzes **Ola ride data** to uncover key trends in ride patterns, revenue distribution, and peak demand hours. Using **SQL, Power BI**, and **Excel**, I developed interactive dashboards to help Ola optimize **pricing strategies** and improve **operational efficiency**.  
